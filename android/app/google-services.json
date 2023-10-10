@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965084217369",
+    "project_id": "pagar88-project",
+    "storage_bucket": "pagar88-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965084217369:android:d4024e1091699f923d2a88",
+        "android_client_info": {
+          "package_name": "com.densusapp.p88"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965084217369-6vdr68gg47kss1l3o30pu251oc3mo6br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI7MD1x6QWR_Y5SREruZOzToDYH2EJQzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965084217369-6vdr68gg47kss1l3o30pu251oc3mo6br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
